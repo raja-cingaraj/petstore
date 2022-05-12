@@ -1,0 +1,30 @@
+[
+  {
+    "category": {
+      "id": 1,
+      "name": "Cat"
+    },
+    "name": "Lacky"
+  },
+  {
+    "category": {
+      "id": 2,
+      "name": "Dog"
+    },
+    "name": "Snoop"
+  },
+  {
+    "category": {
+      "id": 5,
+      "name": "Birds"
+    },
+    "name": "Dingo"
+  },
+  {
+    "category": {
+      "id": 22,
+      "name": "Rabbits"
+    },
+    "name": "Thumper"
+  }
+]
